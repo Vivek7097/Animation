@@ -1,0 +1,2 @@
+This repository contains a collection of animation examples using HTML and CSS. The animations range from simple hover effects to more complex animations using CSS keyframes and transitions. The code is well-commented and easy to understand, making it a great resource for anyone looking to learn more about animation in HTML and CSS or to use as a starting point for their own projects. Feel free to use the code in your own projects or to contribute by submitting pull requests with your own animation examples.
+
